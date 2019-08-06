@@ -1,6 +1,4 @@
 # Self-Balanced-Dropout
-A modified dropout which can reduce the co-adaptation problem.
-
 This project shows an example to apply Self-Balanced Dropout to CNN on SST-1 dataset.
 
 
