@@ -1,5 +1,5 @@
 # Self-Balanced-Dropout
-This project shows an example to apply Self-Balanced Dropout to CNN on SST-1 dataset.
+This project shows an example to apply [Self-Balanced Dropout](https://arxiv.org/pdf/1908.01968.pdf) to CNN on SST-1 dataset.
 
 
 # Requirements and preprocessing
